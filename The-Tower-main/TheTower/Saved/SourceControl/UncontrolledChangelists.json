@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"H:/Downloads/The-Tower-main/The-Tower-main/TheTower/Content/Level/Default.umap",
+				"H:/Downloads/The-Tower-main/The-Tower-main/TheTower/Content/Default.umap",
+				"H:/Downloads/The-Tower-main/The-Tower-main/TheTower/Content/Materials/Eyes.uasset",
+				"H:/Downloads/The-Tower-main/The-Tower-main/TheTower/Content/BluePrints/Player/BP_Player.uasset",
+				"H:/Downloads/The-Tower-main/The-Tower-main/TheTower/Content/Input/IMC_Move.uasset",
+				"H:/Downloads/The-Tower-main/The-Tower-main/TheTower/Content/Input/IA_Move.uasset",
+				"H:/Downloads/The-Tower-main/The-Tower-main/TheTower/Content/Input/IA_MoveHorizontal.uasset",
+				"H:/Downloads/The-Tower-main/The-Tower-main/TheTower/Content/Input/IA_MoveForward.uasset",
+				"H:/Downloads/The-Tower-main/The-Tower-main/TheTower/Content/Input/IA_MoveLeft.uasset",
+				"H:/Documents/Unreal Projects/TheTower/Content/Default.umap"
+			]
+		}
+	]
+}
