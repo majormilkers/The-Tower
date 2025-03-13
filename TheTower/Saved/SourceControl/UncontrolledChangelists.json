@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Max/OneDrive - De Montfort University/Documents/Year2Maya/Module_3.5/The-Tower/TheTower/Content/CompoBlueprint/Cube2_Blueprint.uasset",
+				"C:/Users/Max/OneDrive - De Montfort University/Documents/Year2Maya/Module_3.5/The-Tower/TheTower/Content/CompoBlueprint/BP_Door.uasset",
+				"C:/Users/Max/OneDrive - De Montfort University/Documents/Year2Maya/Module_3.5/The-Tower/TheTower/Content/CompoBlueprint/Door1.uasset",
+				"C:/Users/Max/OneDrive - De Montfort University/Documents/Year2Maya/Module_3.5/The-Tower/TheTower/Content/Default.umap",
 				"H:/Documents/Unreal Projects/TheTower/Content/Default.umap"
 			]
 		}
